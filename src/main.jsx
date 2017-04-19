@@ -59,7 +59,7 @@ class Main extends React.Component {
                         </label>
                         <label
                             style={{ backgroundColor: "#aaa", padding: "5px", borderRadius: "4px", color: "#fff" }}
-                            onClick={() => this.createClient('server2', '58f4894548389d40189d108f')}>
+                            onClick={() => this.createClient('server', '58f4894548389d40189d108f')}>
                             createServerClient
                         </label>
                     </div>
